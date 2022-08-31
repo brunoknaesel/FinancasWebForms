@@ -1,0 +1,11 @@
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\bin\Debug\ControleGastos.exe.config
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\bin\Debug\ControleGastos.exe
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\bin\Debug\ControleGastos.pdb
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.csproj.AssemblyReference.cache
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.Properties.Resources.resources
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.csproj.GenerateResource.cache
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.exe
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.pdb
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.Menu.resources
+C:\Users\Bruno Knaesel\source\repos\ControleGastos\obj\Debug\ControleGastos.CadastroGastos.resources
